@@ -28,5 +28,10 @@
     "popover",
     "tippy",
     "tippy.js"
-  ]
+  ],
+  "exports": {
+    ".": {
+      "svelte": "./index.js"
+    }
+  }
 }
